@@ -1,7 +1,7 @@
 name: dashboard
 description: A new Flutter application.
 # followed by an optional build number separated by a +.
-# Both the version and the builder number may be overridden in flutter
+# Both the version and the builder number may be overridden in
 # build by specifying --build-name and --build-number, respectively.
 # In Android, build-name is used as versionName while build-number used as versionCode.
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
